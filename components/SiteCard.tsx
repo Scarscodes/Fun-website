@@ -1,4 +1,4 @@
-import { Site, Tag } from "@/data/sites";
+import { Site, Tag } from "/data/sites";
 
 const tagStyles: Record<Tag, string> = {
   weird: "bg-purple-100 text-purple-800",
