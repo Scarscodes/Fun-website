@@ -1,6 +1,6 @@
 "use client";
 
-import { Tag, TAG_LABELS } from "/data/sites";
+import { Tag, TAG_LABELS } from "../data/sites";
 
 const ALL = "all";
 type FilterValue = Tag | typeof ALL;
