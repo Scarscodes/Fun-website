@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { SITES, Tag } from "/data/sites";
+import { SITES, Tag } from "../data/sites";
 import SiteCard from "./SiteCard";
 import FilterBar, { FilterValue } from "./FilterBar";
 
